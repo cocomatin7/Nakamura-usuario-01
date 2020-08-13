@@ -5,17 +5,17 @@
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/40073.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",Cultura HD
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/61961.m3u8
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/36945.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD  " tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT HD  
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51039.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT  " tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT  
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51044.m3u8
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT SP
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/61970.m3u8
-#EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT Interior SP" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT Interior SP
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37048.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/36945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD  " tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT HD  
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51039.m3u8
+#EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT INTERIOR SP" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT INTERIOR  SP
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/42912.m3u8
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37090.m3u8
@@ -23,20 +23,20 @@ http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37090.m3u8
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51150.m3u8
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37361.m3u8
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
+#EXTINF:-1 tvg-id="" tvg-name="RECORD  " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD  
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51012.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37051.m3u8
-#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV HD
+#EXTINF:-1 tvg-id="RECORDTV HD" tvg-name="RECORDTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV HD
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/36947.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD HD  " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD HD  
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORD  " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD  
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51012.m3u8
-#EXTINF:-1 tvg-id="Record News HD" tvg-name="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37050.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
+#EXTINF:-1 tvg-id="RECORD News" tvg-name="RECORD News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RECORD News
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/41529.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS  " tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS  
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/51009.m3u8
+#EXTINF:-1 tvg-id="RECORD News HD" tvg-name="RECORD News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RECORD News HD
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37050.m3u8
 #EXTINF:-1 tvg-id="GloboNews HD" tvg-name="GloboNews HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/36917.m3u8
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews
@@ -47,22 +47,22 @@ http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/63398.m3u8
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/65039.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/65040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BandNews HD  " tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews HD  
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/50654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BandNews  " tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews  
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/50655.m3u8
-#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/42411.m3u8
-#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37126.m3u8
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/36990.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37127.m3u8
-#EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
-http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/41530.m3u8
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/36990.m3u8
 #EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/68522.m3u8
+#EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/41530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BandNews  " tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews  
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/50655.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/37126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BandNews HD  " tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews HD  
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/50654.m3u8
+#EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/42411.m3u8
 #EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! HD
 http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/36946.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!
