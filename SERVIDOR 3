@@ -1,2 +1,94 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD LEG" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Legendados ",AXN HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN LEG" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Legendados ",AXN LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel HD LEG" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Legendados ",Fox Channel HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel LEG" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Legendados ",Fox Channel LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados ",HBO HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados ",HBO LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados ",HBO Plus HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados ",HBO Plus LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme LEG" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Legendados ",HBO Xtreme LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi LEG" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Legendados ",HBO Mundi LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Action HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Action LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Fun HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Fun LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Pipoca HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Pipoca LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Premium HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Premium LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Touch HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch LEG" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Legendados ",Telecine Touch LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD LEG" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Legendados ",TNT HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT LEG" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Legendados ",TNT LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD LEG" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Legendados ",FX HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX LEG" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Legendados ",FX LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD LEG" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Legendados ",HBO POP HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP LEG" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Legendados ",HBO POP LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix HD LEG" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Legendados ",MegaPix HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix LEG" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Legendados ",MegaPix LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD LEG" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Legendados ",Space HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space LEG" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Legendados ",Space LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries HD LEG" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Legendados ",TNT Séries HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries LEG" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Legendados ",TNT Séries LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD LEG" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Legendados ",Warner Channel HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel LEG" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Legendados ",Warner Channel LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD LEG" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Legendados ",Sony Channel HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/56894.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi HD LEG" tvg-name="HBO Mundi HD LEG" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Legendados ",HBO Mundi HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68109.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme HD LEG" tvg-name="HBO Xtreme HD LEG" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Legendados ",HBO Xtreme HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68112.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 1 HD LEG" tvg-name="Fox Premium 1 HD LEG" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Legendados ",Fox Premium 1 HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68116.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 2 HD LEG" tvg-name="Fox Premium 2 HD LEG" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Legendados ",Fox Premium 2 HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68118.m3u8
+#EXTINF:-1 tvg-id="Syfy HD LEG" tvg-name="Syfy HD LEG" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Legendados ",Syfy HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65467.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD LEG" tvg-name="HBO Signature HD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados ",HBO Signature HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65468.m3u8
+#EXTINF:-1 tvg-id="HBO Plus HD LEG" tvg-name="HBO Plus HD LEG" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Legendados ",HBO Plus HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65469.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult LEG" tvg-name="Telecine Cult LEG" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Legendados ",Telecine Cult LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65231.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult HD LEG" tvg-name="Telecine Cult HD LEG" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Legendados ",Telecine Cult HD LEG
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65232.m3u8
+#EXTINF:-1 tvg-id="Fox Premium 1 LEG" tvg-name="Fox Premium 1 LEG" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Legendados ",Fox Premium 1 LEG
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/69336.m3u8
+#EXTINF:-1 tvg-id="FOX PREMIUM 2 LEG" tvg-name="FOX PREMIUM 2 LEG" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Legendados ",FOX PREMIUM 2 LEG
+http://tv.minhalista.me:80/live/alineteste0101/xgfsq3h8hai/69337.m3u8
