@@ -3,7 +3,7 @@
 <channels>
 <channel>
 <name>[COLOR green]● [/COLOR][COLOR white]TV AO VIVO[/COLOR]</name>
-<thumbnail>https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png</thumbnail>
+<thumbnail>https://ia601403.us.archive.org/3/items/icones-series/ICONES%20IPTV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/TV%20AO%20VIVO</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
 <info>
@@ -48,3 +48,19 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR green]● [/COLOR][COLOR white]SHOW's[/COLOR]</name>
+<thumbnail>https://ia601404.us.archive.org/21/items/show_20200814/SHOW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/SHOW</externallink>
+<fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
+<info>
+
+
+[COLOR white]|[/COLOR] - ATUALIZAÇÕES SEMANAIS DOS LINKS - [COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
