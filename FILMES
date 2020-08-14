@@ -19,7 +19,7 @@
 <channel>
 <name>[COLOR white]FILMES 2020[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/28/items/icones-filmes-ficca-o/ICONES%20FILMES%202020.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%202020</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
@@ -35,7 +35,7 @@
 <channel>
 <name>[COLOR white]FILMES AÇÃO[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/28/items/icones-filmes-ficca-o/ICONES%20FILMES%20A%C3%87%C3%83O.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%20A%C3%87%C3%83O</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
@@ -51,7 +51,7 @@
 <channel>
 <name>[COLOR white]FILMES FICÇÃO[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/28/items/icones-filmes-ficca-o/ICONES%20FILMES%20FIC%C3%87%C3%83O.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%20FIC%C3%87%C3%83O</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
@@ -65,9 +65,9 @@
 
 <channels>
 <channel>
-<name>[COLOR white]FILMES FANTASIA[/COLOR]</name>
+<name>[COLOR white]FILMES INFANTIS[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/22/items/icones-filmes-fantasia/ICONES%20FILMES%20FANTASIA.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%20INFANTIL</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
@@ -83,7 +83,7 @@
 <channel>
 <name>[COLOR white]FILMES DRAMA[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/28/items/icones-filmes-ficca-o/ICONES%20FILMES%20DRAMA.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%20DRAMA</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
@@ -99,7 +99,7 @@
 <channel>
 <name>[COLOR white]FILMES COMEDIA[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/28/items/icones-filmes-ficca-o/ICONES%20FILMES%20COMEDIA.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%20COMEDIA</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
@@ -113,9 +113,9 @@
 
 <channels>
 <channel>
-<name>[COLOR white]FILMES MARVEL[/COLOR]</name>
+<name>[COLOR white]FILMES TERROR[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/28/items/icones-filmes-ficca-o/ICONES%20FILMES%20MARVEL.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%20TERROR</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
@@ -129,9 +129,9 @@
 
 <channels>
 <channel>
-<name>[COLOR white]FILMES DC[/COLOR]</name>
+<name>[COLOR white]FILMES LEGENDADOS[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/28/items/icones-filmes-ficca-o/ICONES%20FILMES%20DC.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/FILMES%20LEGENDADOS</externallink>
 <fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/LOGOTIPO.png</fanart>
 <info>
 
