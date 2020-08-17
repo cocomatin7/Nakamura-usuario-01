@@ -1,6 +1,5 @@
 #EXTM3U
-
-
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/40073.m3u8
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",Cultura HD
@@ -131,12 +130,7 @@ http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36957.m3u8
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL  " tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Alternativos",MUSIC BOX BRASIL  
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50859.m3u8
-#EXTINF:-1 tvg-id="Film&Arts" tvg-name="Film&Arts" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/41374.m3u8
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37025.m3u8
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="Woohoo HD" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36899.m3u8
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS FILMES E SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37042.m3u8
 #EXTINF:-1 tvg-id="Syfy HD" tvg-name="Syfy HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy HD
@@ -313,72 +307,6 @@ http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37062.m3u8
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50938.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL HD" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",PARAMOUNT CHANNEL HD
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK  " tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50745.m3u8
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",FOOD NETWORK
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37102.m3u8
-#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",FOOD NETWORK HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD  " tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50742.m3u8
-#EXTINF:-1 tvg-id="EI MAX 01" tvg-name="EI MAX 01" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png" group-title="Canais | Esportes",EI MAX 01
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63682.m3u8
-#EXTINF:-1 tvg-id="EI MAX 02" tvg-name="EI MAX 02" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png" group-title="Canais | Esportes",EI MAX 02
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63683.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery-hd-t-5ada3684467f87.6782942315242502442888.jpg" group-title="Canais | Documentarios",DISCOVERY SCIENCE
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51002.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",ANIMAL PLANET
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  " tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Alternativos",ANIMAL PLANET  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50641.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",ANIMAL PLANET HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1  " tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Alternativos",Arte 1  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50643.m3u8
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36902.m3u8
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37131.m3u8
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36988.m3u8
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36900.m3u8
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37068.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD  " tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO  " tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD  " tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD  " tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50925.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36955.m3u8
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36956.m3u8
-#EXTINF:-1 tvg-id="Film&Arts HD" tvg-name="Film&Arts HD" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68536.m3u8
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37063.m3u8
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD  " tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Alternativos",OFF HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50937.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Lifetime
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37077.m3u8
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Lifetime HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36914.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Variedades",E!
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37108.m3u8
-#EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Variedades",E! HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36920.m3u8
-#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36997.m3u8
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36931.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO  " tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Alternativos",HBO  
@@ -447,6 +375,73 @@ http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37085.m3u8
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50791.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD  " tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Alternativos",HBO FAMILY HD  
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50790.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Filmes e Series",TCM
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37037.m3u8
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Filmes e Series",TCM HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63644.m3u8
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS VARIEDADES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK  " tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50745.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",FOOD NETWORK
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37102.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",FOOD NETWORK HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD  " tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50742.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery-hd-t-5ada3684467f87.6782942315242502442888.jpg" group-title="Canais | Documentarios",DISCOVERY SCIENCE
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51002.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",ANIMAL PLANET
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  " tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Alternativos",ANIMAL PLANET  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50641.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",ANIMAL PLANET HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1  " tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Alternativos",Arte 1  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50643.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36902.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37131.m3u8
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36988.m3u8
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1 HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36900.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37068.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD  " tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO  " tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD  " tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD  " tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50925.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36955.m3u8
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36956.m3u8
+#EXTINF:-1 tvg-id="Film&Arts HD" tvg-name="Film&Arts HD" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68536.m3u8
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37063.m3u8
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD  " tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Alternativos",OFF HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50937.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Lifetime
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37077.m3u8
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Lifetime HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36914.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Variedades",E!
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37108.m3u8
+#EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Variedades",E! HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36920.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36997.m3u8
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36931.m3u8
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",HISTORY
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37081.m3u8
 #EXTINF:-1 tvg-id="HISTORY HD" tvg-name="HISTORY HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",HISTORY HD
@@ -511,16 +506,18 @@ http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36981.m3u8
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50712.m3u8
 #EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Canais | Documentarios",HGTV HD
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36924.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Filmes e Series",TCM
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37037.m3u8
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Filmes e Series",TCM HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRIMEBOX BRASIL  " tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Alternativos",PRIMEBOX BRASIL  
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51004.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Filmes e Series",Prime Box Brazil
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37053.m3u8
 #EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Canais | Filmes e Series",TruTV HD
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63649.m3u8
+#EXTINF:-1 tvg-id="Film&Arts" tvg-name="Film&Arts" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/41374.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37025.m3u8
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="Woohoo HD" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36899.m3u8
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37133.m3u8
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1 HD
@@ -529,6 +526,7 @@ http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63637.m3u8
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63646.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CURTA  " tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Alternativos",CURTA  
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50676.m3u8
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD  " tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL HD  
 http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50691.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
