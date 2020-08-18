@@ -1,0 +1,287 @@
+CANAIS ESPORTES SD
+#EXTM3U
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ESPORTIVOS SD[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS  " tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50657.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50613.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirão - Libertadores - Copa do Brasil" tvg-logo="https://i.imgur.com/HbYTpF5.jpg" group-title="Programações de Jogos",Brasileirão - Libertadores - Copa do Brasil
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/62087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE  " tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50673.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_ HD.png/revision/latest?cb=20160113004056" group-title="Canais | Alternativos",ESPN  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50740.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes",ESPN
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37105.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Esportes",ESPN 2
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/62745.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes",ESPN Brasil
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37104.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Extra
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/41977.m3u8
+#EXTINF:-1 tvg-id="EI MAX 01" tvg-name="EI MAX 01" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png" group-title="Canais | Esportes",EI MAX 01
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63682.m3u8
+#EXTINF:-1 tvg-id="EI MAX 02" tvg-name="EI MAX 02" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png" group-title="Canais | Esportes",EI MAX 02
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS SD" tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes",EI PLUS SD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/54703.m3u8
+#EXTINF:-1 tvg-id="EI PLUS 01" tvg-name="EI PLUS 01" tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes",EI PLUS 01
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63266.m3u8
+#EXTINF:-1 tvg-id="EI PLUS 02" tvg-name="EI PLUS 02" tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes",EI PLUS 02
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63267.m3u8
+#EXTINF:-1 tvg-id="EI PLUS 03" tvg-name="EI PLUS 03" tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes",EI PLUS 03
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63268.m3u8
+#EXTINF:-1 tvg-id="EI PLUS 04" tvg-name="EI PLUS 04" tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes",EI PLUS 04
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63269.m3u8
+#EXTINF:-1 tvg-id="EI PLUS 05" tvg-name="EI PLUS 05" tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes",EI PLUS 05
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63270.m3u8
+#EXTINF:-1 tvg-id="EI PLUS 06" tvg-name="EI PLUS 06" tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes",EI PLUS 06
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63271.m3u8
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37103.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS  T" tvg-name="FOX SPORTS  " tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Alternativos",FOX SPORTS  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/73053.m3u8
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37099.m3u8
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FoxSports 2" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2  " tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Alternativos",FOX SPORTS 2  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV  " tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Alternativos",SPORTV  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51056.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",SporTV
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37256.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",SporTV 2
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2  " tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Alternativos",SPORTV 2  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3  " tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Alternativos",SPORTV 3  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51054.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",SporTV 3
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37006.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE CLUBES  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere League - Principais Jogos" tvg-logo="https://i.imgur.com/rdiV05y.jpg" group-title="Programações de Jogos",Premiere League - Principais Jogos
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/62097.m3u8
+#EXTINF:-1 tvg-id="Premiere Internacional" tvg-name="Premiere Internacional" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Internacional
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 2  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50954.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 3  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50973.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 4  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50977.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37058.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 5  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50984.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 6  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 7  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50988.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 8  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 8
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/54120.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE 2020" tvg-name="COPA NORDESTE 5 (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA NORDESTE 5 (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64624.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE 2020 (JOGO 2)" tvg-name="COPA NORDESTE 3 (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA NORDESTE 3 (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64625.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE 2020 (JOGO 3)" tvg-name="COPA NORDESTE 4 (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA NORDESTE 4 (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64626.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE 2020 (JOGO 4)" tvg-name="COPA NORDESTE 3 (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA NORDESTE 3 (A)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64627.m3u8
+#EXTINF:-1 tvg-id="CAMPEONATO CATARINENSE (JOGO 1)" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="https://i.imgur.com/aIBhFod.jpg" group-title="Canais | Esportes",CAMPEONATO CATARINENSE (JOGO 1)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64628.m3u8
+#EXTINF:-1 tvg-id="CAMPEONATO CATARINENSE (JOGO3)" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="https://i.imgur.com/aIBhFod.jpg" group-title="Canais | Esportes",CAMPEONATO CATARINENSE (JOGO3)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64629.m3u8
+#EXTINF:-1 tvg-id="CAMPEONATO CATARINENSE (JOGO2)" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="https://i.imgur.com/aIBhFod.jpg" group-title="Canais | Esportes",CAMPEONATO CATARINENSE (JOGO2)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64630.m3u8
+#EXTINF:-1 tvg-id="CAMPEONATO CATARINENSE (JOGO4)" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="https://i.imgur.com/aIBhFod.jpg" group-title="Canais | Esportes",CAMPEONATO CATARINENSE (JOGO4)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64631.m3u8
+#EXTINF:-1 tvg-id="Catarinense 1" tvg-name="Catarinense 1" tvg-logo="https://i.imgur.com/aIBhFod.jpg" group-title="Canais | Esportes",Catarinense 1
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64634.m3u8
+#EXTINF:-1 tvg-id="Catarinense 2" tvg-name="Catarinense 2" tvg-logo="https://i.imgur.com/aIBhFod.jpg" group-title="Canais | Esportes",Catarinense 2
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64635.m3u8
+#EXTINF:-1 tvg-id="Copa Nordeste 1" tvg-name="COPA NORDESTE 1 (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA NORDESTE 1 (A)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64597.m3u8
+#EXTINF:-1 tvg-id="Copa Nordeste 2" tvg-name="Copa Nordeste 2 (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",Copa Nordeste 2 (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64598.m3u8
+#EXTINF:-1 tvg-id="Copa Nordeste 3" tvg-name="Copa Nordeste 2 (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",Copa Nordeste 2 (A)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64599.m3u8
+#EXTINF:-1 tvg-id="Rai 01" tvg-name="Rai 01" tvg-logo="https://i.imgur.com/ImVSrJh.png" group-title="Canais | Esportes",Rai 01
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/71888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GloboEsporte.com" tvg-logo="https://is.gd/66MqME" group-title="Canais | Esportes",GloboEsporte.com
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/62271.m3u8
+#EXTINF:-1 tvg-id="Facebook Watch" tvg-name="Facebook Watch" tvg-logo="" group-title="Canais | Esportes",Facebook Watch
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64989.m3u8
+#EXTINF:-1 tvg-id="FLA TV" tvg-name="mycujoo 01" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais | Esportes",mycujoo 01
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/71452.m3u8
+#EXTINF:-1 tvg-id="MyCujoo 02" tvg-name="mycujoo 02" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais | Esportes",mycujoo 02
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/71728.m3u8
+#EXTINF:-1 tvg-id="MyCujoo 03" tvg-name="mycujoo 03" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais | Esportes",mycujoo 03
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/71729.m3u8
+CANAIS ESPORTES HD
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ESPORTIVOS HD[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports  HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS  HD  " tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE  HD  " tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50672.m3u8
+#EXTINF:-1 tvg-id="Combate  HD" tvg-name="Combate  HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes",Combate  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36986.m3u8
+#EXTINF:-1 tvg-id="DAZN 4  HD" tvg-name="DAZN 01  HD (A)" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg" group-title="Canais | Esportes",DAZN 01  HD (A)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63112.m3u8
+#EXTINF:-1 tvg-id="DAZN 5  HD" tvg-name="DAZN 02  HD (A)" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg" group-title="Canais | Esportes",DAZN 02  HD (A)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63113.m3u8
+#EXTINF:-1 tvg-id="DAZN 3  HD" tvg-name="DAZN 03  HD (A)" tvg-logo="https://i.imgur.com/nPTcquW.jpg" group-title="Canais | Esportes",DAZN 03  HD (A)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63115.m3u8
+#EXTINF:-1 tvg-id="DAZN  HD 06" tvg-name="DAZN 04  HD (A)" tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes",DAZN 04  HD (A)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1  HD" tvg-logo="https://i.imgur.com/0l37eVA.jpg" group-title="Canais | Esportes",DAZN 1  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/58130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2  HD" tvg-logo="https://i.imgur.com/0l37eVA.jpg" group-title="Canais | Esportes",DAZN 2  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/58433.m3u8
+#EXTINF:-1 tvg-id="DAZN 01  HD (B)" tvg-name="DAZN 01  HD (B)" tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes",DAZN 01  HD (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/72972.m3u8
+#EXTINF:-1 tvg-id="DAZN 02  HD (B)" tvg-name="DAZN 02  HD (B)" tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes",DAZN 02  HD (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/72973.m3u8
+#EXTINF:-1 tvg-id="DAZN 03  HD (B)" tvg-name="DAZN 03  HD (B)" tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes",DAZN 03  HD (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/72974.m3u8
+#EXTINF:-1 tvg-id="DAZN 04  HD (B)" tvg-name="DAZN 04  HD (B)" tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes",DAZN 04  HD (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/72975.m3u8
+#EXTINF:-1 tvg-id="DAZN 05  HD (B)" tvg-name="DAZN 05  HD (B)" tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes",DAZN 05  HD (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/72976.m3u8
+#EXTINF:-1 tvg-id="DAZN 06  HD (B)" tvg-name="DAZN 06  HD (B)" tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes",DAZN 06  HD (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/72977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo  HD" tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes",Esporte Interativo  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/61879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS  HD" tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes",EI PLUS  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/54705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD  " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_ HD.png/revision/latest?cb=20160113004056" group-title="Canais | Alternativos",ESPN  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50739.m3u8
+#EXTINF:-1 tvg-id="ESPN  HD" tvg-name="ESPN  HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_ HD.png/revision/latest?cb=20160113004056" group-title="Canais | Esportes",ESPN  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36977.m3u8
+#EXTINF:-1 tvg-id="ESPN 2  HD" tvg-name="ESPN 2  HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2   HD  " tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Alternativos",ESPN 2   HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL  HD  " tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Alternativos",ESPN BRASIL  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50736.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil  HD" tvg-name="ESPN BRASIL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes",ESPN BRASIL  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/73051.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra  HD" tvg-name="ESPN Extra  HD" tvg-logo="https://i.imgur.com/M43oOmn.png" group-title="Canais | Esportes",ESPN Extra  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/42910.m3u8
+#EXTINF:-1 tvg-id="Fish TV  HD" tvg-name="Fish TV  HD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes",Fish TV  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/42911.m3u8
+#EXTINF:-1 tvg-id="FoxSports  HD" tvg-name="FoxSports  HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36970.m3u8
+#EXTINF:-1 tvg-id="FoxSports 2  HD" tvg-name="FoxSports 2  HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36971.m3u8
+#EXTINF:-1 tvg-id="SporTV  HD" tvg-name="SporTV  HD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",SporTV  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV  HD  " tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Alternativos",SPORTV  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51055.m3u8
+#EXTINF:-1 tvg-id="SporTV 2  HD" tvg-name="SporTV 2  HD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes",SporTV 2  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2  HD  " tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Alternativos",SPORTV 2  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51051.m3u8
+#EXTINF:-1 tvg-id="SporTV 3  HD" tvg-name="SporTV 3  HD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes",SporTV 3  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3  HD  " tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Alternativos",SPORTV 3  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51053.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes  HD" tvg-name="Premiere Clubes  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2  HD  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 2  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50953.m3u8
+#EXTINF:-1 tvg-id="Premiere 2  HD" tvg-name="Premiere 2  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36952.m3u8
+#EXTINF:-1 tvg-id="Premiere 3  HD" tvg-name="Premiere 3  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3  HD  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 3  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50966.m3u8
+#EXTINF:-1 tvg-id="Premiere 4  HD" tvg-name="Premiere 4  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4  HD  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 4  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50976.m3u8
+#EXTINF:-1 tvg-id="Premiere 5  HD" tvg-name="Premiere 5  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5  HD  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 5  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50983.m3u8
+#EXTINF:-1 tvg-id="Premiere 6  HD" tvg-name="Premiere 6  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36906.m3u8
+#EXTINF:-1 tvg-id="Premiere 7  HD" tvg-name="Premiere 7  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7  HD  " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 7  HD  
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50987.m3u8
+#EXTINF:-1 tvg-id="Premiere 8  HD" tvg-name="Premiere 8  HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 8  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64657.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE  HD " tvg-name="COPA  NORDESTE  HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA  NORDESTE  HD 
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64632.m3u8
+#EXTINF:-1 tvg-id="Copa Nordeste 1  HD" tvg-name="Copa Nordeste 1 (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",Copa Nordeste 1 (B)
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64601.m3u8
+#EXTINF:-1 tvg-id="CAMPEONATO CATARINENSE  HD" tvg-name="CAMPEONATO CATARINENSE  HD" tvg-logo="https://i.imgur.com/aIBhFod.jpg" group-title="Canais | Esportes",CAMPEONATO CATARINENSE  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64633.m3u8
+#EXTINF:-1 tvg-id="COPA CATARINENSE  HD" tvg-name="COPA CATARINENSE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA CATARINENSE  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64636.m3u8
+#EXTINF:-1 tvg-id="COPA CATARINENSE 2  HD" tvg-name="COPA CATARINENSE 2  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA CATARINENSE 2  HD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64637.m3u8
+#EXTINF:-1 tvg-id="COPA DO NORDESTE  HD" tvg-name="COPA  NORDESTE  HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Esportes",COPA  NORDESTE  HD 4
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/64638.m3u8
+CANAIS ESPORTES FHD
+#EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ESPORTIVOS FHD[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+#EXTINF:-1 tvg-id="BandSports FHD" tvg-name="BandSports FHD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Full HD",BandSports FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/42900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE FHD [ALT]
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50671.m3u8
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="Combate FHD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Full HD",Combate FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38428.m3u8
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN Brasil FHD" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Full HD",ESPN Brasil FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38413.m3u8
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Full HD",ESPN FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38401.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Full HD",ESPN 2 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/41477.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN Extra FHD" tvg-logo="https://i.imgur.com/M43oOmn.png" group-title="Canais | Full HD",ESPN Extra FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38380.m3u8
+#EXTINF:-1 tvg-id="FoxSports 2 FHD" tvg-name="FoxSports 2 FHD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Full HD",FoxSports 2 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38398.m3u8
+#EXTINF:-1 tvg-id="Fish TV FHD" tvg-name="Fish TV FHD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Full HD",Fish TV FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/41478.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="Premiere Clubes FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere Clubes FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38411.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="Premiere 2 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 2 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38410.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="Premiere 3 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 3 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38409.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="Premiere 4 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 4 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38408.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="Premiere 5 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 5 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38407.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="Premiere 6 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 6 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38406.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 FHD" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 7 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38405.m3u8
+#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Full HD",SporTV FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38419.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 FHD" tvg-name="SporTV 2 FHD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Full HD",SporTV 2 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38395.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 FHD" tvg-name="SporTV 3 FHD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Full HD",SporTV 3 FHD
+http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38394.m3u8
