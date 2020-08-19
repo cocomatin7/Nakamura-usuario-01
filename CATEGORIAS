@@ -78,3 +78,42 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR green]● [/COLOR][COLOR white]INFANTIL[/COLOR]</name>
+<thumbnail>https://ia601404.us.archive.org/21/items/show_20200814/SHOW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/INFANTIL</externallink>
+<fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
+<info>
+
+[COLOR green]● [/COLOR] VERDE O SERVIDOR ESTÁ ONLINE.
+
+[COLOR orange]● [/COLOR] LARANJA O SERVIDOR ESTÁ EM MANUTENÇÃO.
+
+[COLOR red]● [/COLOR] VERMELHO O SERVIDOR ESTÁ OFFLINE.
+
+[COLOR white]|[/COLOR] - ATUALIZAÇÕES SEMANAIS DOS LINKS - [COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR green]● [/COLOR][COLOR white]ADULTO +18[/COLOR]</name>
+<thumbnail>https://ia801401.us.archive.org/18/items/87661dc-4d-4b-6ffc-74b-74a-47e-1de-3cac-6/87661dc4d4b6ffc74b74a47e1de3cac6.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/IPTV-BOX/TV-IP-USUARIO-01/master/ADULTO%20%2B18</externallink>
+<fanart>https://ia601409.us.archive.org/29/items/fanart_20200807/fanart.jpg</fanart>
+<info>
+
+[COLOR red]|[/COLOR]CANAIS ADULTOS - FILMES E LIVESTREAM[COLOR red]|[/COLOR]
+
+
+[COLOR green]● [/COLOR] VERDE O SERVIDOR ESTÁ ONLINE.
+
+[COLOR orange]● [/COLOR] LARANJA O SERVIDOR ESTÁ EM MANUTENÇÃO.
+
+[COLOR red]● [/COLOR] VERMELHO O SERVIDOR ESTÁ OFFLINE.
+
+</channel>
+</channels>
