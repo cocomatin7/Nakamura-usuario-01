@@ -2,332 +2,332 @@ TV ABERTA
 #EXTM3U
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="Cultura HD" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | Abertos",Cultura HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/61961.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/61961.m3u8
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36945.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36945.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT HD  " tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51039.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51039.m3u8
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="GLOBO SP HD   " tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO SP HD   
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51150.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51150.m3u8
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37361.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/37361.m3u8
 #EXTINF:-1 tvg-id="RECORDTV HD" tvg-name="RECORDTV HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RECORDTV HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36947.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36947.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD HD  " tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51006.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51006.m3u8
 #EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36990.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36990.m3u8
 #EXTINF:-1 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/41530.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/41530.m3u8
 #EXTINF:-1 tvg-id="RedeTV!  HD" tvg-name="RedeTV!  HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36946.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV  HD  " tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51014.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51014.m3u8
 #EXTINF:-1 tvg-id="Gazeta  HD" tvg-name="Gazeta  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Canais | Abertos",Gazeta  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/60201.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/60201.m3u8
 #EXTINF:-1 tvg-id="Gazeta  HD" tvg-name="Gazeta  HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",Gazeta  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/40120.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/40120.m3u8
 #EXTINF:-1 tvg-id="TV Brasil 2  HD" tvg-name="TV Brasil 2  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil 2  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63632.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63632.m3u8
 #EXTINF:-1 tvg-id="TV Senado  HD" tvg-name="TV Senado  HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png" group-title="Canais | Variedades",TV Senado  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63665.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63665.m3u8
 #EXTINF:-1 tvg-id="Futura  HD" tvg-name="Futura  HD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68530.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/68530.m3u8
 #EXTINF:-1 tvg-id="TV Educação  HD" tvg-name="TV Educação  HD" tvg-logo="https://i.imgur.com/RaDC1Gw.png" group-title="Canais | Variedades",TV Educação  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/69691.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/69691.m3u8
 #EXTINF:-1 tvg-id="Agro Canal  HD" tvg-name="Agro Canal  HD" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="Canais | Abertos",Agro Canal  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/71074.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/71074.m3u8
 NOTICIARIO
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NOTICIARIOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="RECORD News HD" tvg-name="RECORD News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",RECORD News HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37050.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/37050.m3u8
 #EXTINF:-1 tvg-id="BandNews HD" tvg-name="BandNews HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/42411.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/42411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BandNews HD  " tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50654.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50654.m3u8
 #EXTINF:-1 tvg-id="GloboNews HD" tvg-name="GloboNews HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36917.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36917.m3u8
 #EXTINF:-1 tvg-id="Globo Centro America HD" tvg-name="Globo Centro America HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Centro America HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63398.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63398.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL HD" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/65039.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/65039.m3u8
 #EXTINF:-1 tvg-id="FOX NEWs  HD" tvg-name="FOX NEWs  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | Noticias",FOX NEWs  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63652.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63652.m3u8
 PROGRAMAÇÃO DE TV
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]REALITIES SHOWS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="VH1 MegaHits  HD" tvg-name="VH1 MegaHits  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1200px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Canais | Variedades",VH1 MegaHits  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68119.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/68119.m3u8
 #EXTINF:-1 tvg-id="MTV Live  HD" tvg-name="MTV Live  HD" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png" group-title="Canais | Variedades",MTV Live  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/40518.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/40518.m3u8
 #EXTINF:-1 tvg-id="MTV  HD" tvg-name="MTV  HD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Variedades",MTV  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36910.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36910.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV  HD  " tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Alternativos",MTV  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50855.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MULTISHOW  HD  " tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Alternativos",MULTISHOW  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50857.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50857.m3u8
 #EXTINF:-1 tvg-id="MULTISHOW  HD" tvg-name="MULTISHOW  HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",MULTISHOW  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36957.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36957.m3u8
 CANAIS FILMES E SERIES
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS FILMES E SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="AXN  HD  " tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50646.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50646.m3u8
 #EXTINF:-1 tvg-id="AXN  HD" tvg-name="AXN  HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36991.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36991.m3u8
 #EXTINF:-1 tvg-id="A&E  HD" tvg-name="A&E  HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36929.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36929.m3u8
 #EXTINF:-1 tvg-id="A&E  HD" tvg-name="A&E  HD  " tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50614.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50614.m3u8
 #EXTINF:-1 tvg-id="AMC  HD" tvg-name="AMC  HD   " tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Alternativos",AMC  HD   
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50639.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50639.m3u8
 #EXTINF:-1 tvg-id="AMC  HD" tvg-name="AMC  HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Filmes e Series",AMC  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36928.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36928.m3u8
 #EXTINF:-1 tvg-id="CINEMAX  HD" tvg-name="CINEMAX  HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",CINEMAX  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36926.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX  HD  " tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Alternativos",CINEMAX  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50669.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50669.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX  HD  " tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Alternativos",FX  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50770.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50770.m3u8
 #EXTINF:-1 tvg-id="FX  HD" tvg-name="FX  HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36969.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36969.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX  HD  " tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Alternativos",FOX  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50747.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50747.m3u8
 #EXTINF:-1 tvg-id="FOX LIFE  HD" tvg-name="FOX LIFE  HD" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Variedades",FOX LIFE  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36918.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE  HD  " tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Alternativos",FOX LIFE  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50748.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50748.m3u8
 #EXTINF:-1 tvg-id="FOX CHANNEL  HD" tvg-name="FOX CHANNEL  HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",FOX CHANNEL  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36972.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36972.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1  HD  " tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Alternativos",FOX PREMIUM 1  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50750.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50750.m3u8
 #EXTINF:-1 tvg-id="FOX PREMIUM 1  HD" tvg-name="FOX PREMIUM 1   HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",FOX PREMIUM 1   HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36974.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36974.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2  HD  " tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Alternativos",FOX PREMIUM 2  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50751.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50751.m3u8
 #EXTINF:-1 tvg-id="FOX PREMIUM 2  HD" tvg-name="FOX PREMIUM 2  HD" tvg-logo="https://i.imgur.com/WgobCjU.png" group-title="Canais | Filmes e Series",FOX PREMIUM 2  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36973.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36973.m3u8
 #EXTINF:-1 tvg-id="HBO  HD" tvg-name="HBO  HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36964.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36964.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO  HD  " tvg-logo="http://t.likeiptv.com/hbo HD.png" group-title="Canais | Alternativos",HBO  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50792.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50792.m3u8
 #EXTINF:-1 tvg-id="HBO 2   HD" tvg-name="HBO 2  HD" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36966.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36966.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2  HD  " tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Alternativos",HBO 2  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50788.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50788.m3u8
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Mundi  HD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",HBO Mundi  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36913.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36913.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Mundi  HD  " tvg-logo="http://urlcurta.ml/KRVHG" group-title="Canais | Alternativos",HBO Mundi  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50842.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50842.m3u8
 #EXTINF:-1 tvg-id="Max UP" tvg-name="HBO POP  HD" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Filmes e Series",HBO POP  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36911.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP  HD  " tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="Canais | Alternativos",HBO POP  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50851.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50851.m3u8
 #EXTINF:-1 tvg-id="MaxPrime" tvg-name="HBO Xtreme  HD" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Canais | Filmes e Series",HBO Xtreme  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36912.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36912.m3u8
 #EXTINF:-1 tvg-id="HBO Signature  HD" tvg-name="HBO Signature  HD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Filmes e Series",HBO Signature  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36962.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36962.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY  HD" tvg-name="HBO FAMILY  HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO FAMILY  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36965.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36965.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY  HD  " tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Alternativos",HBO FAMILY  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50790.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50790.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO PLUS  HD   " tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS  HD   
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51151.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51151.m3u8
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="HBO Plus  HD" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Filmes e Series",HBO Plus  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36963.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36963.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE  HD  " tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Alternativos",HBO SIGNATURE  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50796.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGAPIX  HD  " tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Alternativos",MEGAPIX  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50853.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50853.m3u8
 #EXTINF:-1 tvg-id="MEGAPIX  HD" tvg-name="MEGAPIX  HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",MEGAPIX  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36958.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36958.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL  HD  " tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50938.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50938.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL  HD" tvg-name="PARAMOUNT CHANNEL  HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Filmes e Series",PARAMOUNT CHANNEL  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36953.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36953.m3u8
 #EXTINF:-1 tvg-id="Syfy  HD" tvg-name="Syfy  HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Filmes e Series",Syfy  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36903.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36903.m3u8
 #EXTINF:-1 tvg-id="Sony Channel  HD" tvg-name="Sony Channel  HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Filmes e Series",Sony Channel  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36987.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36987.m3u8
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL  HD" tvg-name="STUDIO UNIVERSAL  HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Filmes e Series",STUDIO UNIVERSAL  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36904.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36904.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACE  HD   " tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE  HD   
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51047.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51047.m3u8
 #EXTINF:-1 tvg-id="SPACE  HD" tvg-name="SPACE  HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",SPACE  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36944.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36944.m3u8
 #EXTINF:-1 tvg-id="TCM  HD" tvg-name="TCM  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Filmes e Series",TCM  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63644.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63644.m3u8
 #EXTINF:-1 tvg-id="TELECINE CULT  HD" tvg-name="TELECINE CULT  HD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Filmes e Series",TELECINE CULT  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36901.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36901.m3u8
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="TELECINE CULT  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE CULT  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51085.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51085.m3u8
 #EXTINF:-1 tvg-id="TELECINE ACTION  HD" tvg-name="TELECINE ACTION  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",TELECINE ACTION  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36939.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36939.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE ACTION  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51083.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51083.m3u8
 #EXTINF:-1 tvg-id="TELECINE FUN  HD" tvg-name="TELECINE FUN  HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Filmes e Series",TELECINE FUN  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36938.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36938.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51087.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51087.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51089.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51089.m3u8
 #EXTINF:-1 tvg-id="TELECINE PIPOCA   HD" tvg-name="TELECINE PIPOCA  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Filmes e Series",TELECINE PIPOCA  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36937.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36937.m3u8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM  HD" tvg-name="TELECINE PREMIUM  HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Filmes e Series",TELECINE PREMIUM  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36936.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PREMIUM  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51104.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51104.m3u8
 #EXTINF:-1 tvg-id="TELECINE TOUCH  HD" tvg-name="TELECINE TOUCH  HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Filmes e Series",TELECINE TOUCH  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36935.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36935.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE TOUCH  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51113.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT  HD  " tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51119.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51119.m3u8
 #EXTINF:-1 tvg-id="TNT  HD" tvg-name="TNT  HD" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36934.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36934.m3u8
 #EXTINF:-1 tvg-id="TNT Séries  HD" tvg-name="TNT Séries  HD" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36933.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36933.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES  HD  " tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51121.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51121.m3u8
 #EXTINF:-1 tvg-id="Universal TV  HD" tvg-name="Universal TV  HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Filmes e Series",Universal TV  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36932.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36932.m3u8
 #EXTINF:-1 tvg-id="Warner Channel  HD" tvg-name="Warner Channel  HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36930.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36930.m3u8
 CANAIS DOCUMENTARIOS
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DE DOCUMENTARIOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="ANIMAL PLANET  HD" tvg-name="ANIMAL PLANET  HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",ANIMAL PLANET  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36992.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36992.m3u8
 #EXTINF:-1 tvg-id="Arte 1  HD" tvg-name="Arte 1  HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63637.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63637.m3u8
 #EXTINF:-1 tvg-id="BIS  HD" tvg-name="BIS  HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36988.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36988.m3u8
 #EXTINF:-1 tvg-id="Curta!  HD" tvg-name="Curta!  HD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Variedades",Curta!  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63646.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63646.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL  HD" tvg-name="COMEDY CENTRAL  HD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",COMEDY CENTRAL  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36925.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL  HD  " tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Alternativos",COMEDY CENTRAL  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50674.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL  HD  " tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50691.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50691.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel  HD" tvg-name="Discovery Channel  HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36985.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36985.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INVESTIGACAO DISCOVERY  HD  " tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Alternativos",INVESTIGACAO DISCOVERY  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50803.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50803.m3u8
 #EXTINF:-1 tvg-id="ID: Investigação Discovery  HD" tvg-name="ID: Investigação Discovery  HD" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Canais | Documentarios",ID: Investigação Discovery  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36959.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36959.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY THEATER  HD" tvg-name="DISCOVERY THEATER  HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Documentarios",DISCOVERY THEATER  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36983.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36983.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER  HD  " tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Alternativos",DISCOVERY THEATER  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50709.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50709.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH  HD" tvg-name="DISCOVERY HOME & HEALTH  HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",DISCOVERY HOME & HEALTH  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/37115.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/37115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH  HD   " tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Alternativos",DISCOVERY HOME & HEALTH  HD   
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50704.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50704.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE  HD  " tvg-logo="http://urlcurta.ml/qyAyP" group-title="Canais | Alternativos",DISCOVERY SCIENCE  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50708.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50708.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE  HD" tvg-name="DISCOVERY SCIENCE  HD" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery- HD-t-5ada3684467f87.6782942315242502442888.jpg" group-title="Canais | Documentarios",DISCOVERY SCIENCE  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36922.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO  HD  " tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Alternativos",DISCOVERY TURBO  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50710.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50710.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY TURBO  HD" tvg-name="DISCOVERY TURBO  HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",DISCOVERY TURBO  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36982.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36982.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY WORLD  HD" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Documentarios",DISCOVERY WORLD  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36981.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36981.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD  HD  " tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Alternativos",DISCOVERY WORLD  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50712.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50712.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery- HD-t-5ada3684467f87.6782942315242502442888.jpg" group-title="Canais | Documentarios",DISCOVERY SCIENCE
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/51002.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/51002.m3u8
 #EXTINF:-1 tvg-id="E!  HD" tvg-name="E!  HD" tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Variedades",E!  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36920.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36920.m3u8
 #EXTINF:-1 tvg-id="Film&Arts  HD" tvg-name="Film&Arts  HD" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Filmes e Series",Film&Arts  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/68536.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/68536.m3u8
 #EXTINF:-1 tvg-id="FOOD NETWORK  HD" tvg-name="FOOD NETWORK  HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Canais | Variedades",FOOD NETWORK  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36919.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36919.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK  HD  " tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50742.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50742.m3u8
 #EXTINF:-1 tvg-id="GNT  HD" tvg-name="GNT  HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36967.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36967.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT  HD  " tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Alternativos",GNT  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50775.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50775.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2  HD  " tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",H2  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50786.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50786.m3u8
 #EXTINF:-1 tvg-id="HGTV  HD" tvg-name="HGTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Canais | Documentarios",HGTV  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36924.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36924.m3u8
 #EXTINF:-1 tvg-id="HISTORY  HD" tvg-name="HISTORY  HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",HISTORY  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36960.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36960.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL  HD  " tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",HISTORY CHANNEL  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50798.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50798.m3u8
 #EXTINF:-1 tvg-id="HISTORY 2  HD" tvg-name="HISTORY 2  HD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Documentarios",HISTORY 2  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36961.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36961.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME  HD  " tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Alternativos",LIFETIME  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50829.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50829.m3u8
 #EXTINF:-1 tvg-id="Lifetime  HD" tvg-name="Lifetime  HD" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Variedades",Lifetime  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36914.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36914.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO  HD  " tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50902.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50902.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD  HD  " tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50920.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50920.m3u8
 #EXTINF:-1 tvg-id="National Geographic Wild  HD" tvg-name="National Geographic Wild  HD" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Documentarios",National Geographic Wild  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36955.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36955.m3u8
 #EXTINF:-1 tvg-id="National Geographic  HD" tvg-name="National Geographic  HD" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Documentarios",National Geographic  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36956.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36956.m3u8
 #EXTINF:-1 tvg-id="OFF  HD" tvg-name="OFF  HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Variedades",OFF  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36954.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36954.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OFF  HD  " tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Alternativos",OFF  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50937.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50937.m3u8
 #EXTINF:-1 tvg-id="TLC  HD" tvg-name="TLC  HD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Variedades",TLC  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36902.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36902.m3u8
 #EXTINF:-1 tvg-id="TruTV  HD" tvg-name="TruTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Canais | Filmes e Series",TruTV  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63649.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63649.m3u8
 #EXTINF:-1 tvg-id="VH1  HD" tvg-name="VH1  HD" tvg-logo="http://i.imgur.com/ST4gtJb.png" group-title="Canais | Variedades",VH1  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36900.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36900.m3u8
 #EXTINF:-1 tvg-id="Viva  HD" tvg-name="Viva  HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Variedades",Viva  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36931.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36931.m3u8
 #EXTINF:-1 tvg-id="Woohoo  HD" tvg-name="Woohoo  HD" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="Canais | Variedades",Woohoo  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36899.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36899.m3u8
 CANAIS DESENHOS
 #EXTINF:-1 tvg-id="abertos" tvg-name="CANAIS"tvg-logo="https://ia601507.us.archive.org/30/items/iptv-legendado/LOGOTIPO%202.png" group-title="CANAIS |",[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
 #EXTINF:-1 tvg-id="BabyTV  HD" tvg-name="BabyTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63634.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63634.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network  HD" tvg-name="Cartoon Network  HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36927.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK  HD  " tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Alternativos",CARTOON NETWORK  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50667.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50667.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  HD  " tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Alternativos",DISNEY CHANNEL  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50713.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50713.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel  HD" tvg-name="Disney Channel  HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36921.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36921.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR  HD  " tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior- HD.png" group-title="Canais | Alternativos",DISNEY JR  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50715.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50715.m3u8
 #EXTINF:-1 tvg-id="Disney Junior  HD" tvg-name="Disney Junior  HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior- HD.png" group-title="Canais | Infantil",Disney Junior  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/40517.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/40517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR  " tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior- HD.png" group-title="Canais | Alternativos",DISNEY JR  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50716.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50716.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids  HD" tvg-name="Discovery Kids  HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36923.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS  HD   " tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Alternativos",DISCOVERY KIDS  HD   
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50706.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50706.m3u8
 #EXTINF:-1 tvg-id="Disney XD  HD" tvg-name="Disney XD  HD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil",Disney XD  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50717.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50717.m3u8
 #EXTINF:-1 tvg-id="Gloobinho  HD" tvg-name="Gloobinho  HD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil",Gloobinho  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/38969.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/38969.m3u8
 #EXTINF:-1 tvg-id="Gloob   HD" tvg-name="Gloob  HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36915.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB  HD  " tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Alternativos",GLOOB  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50773.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50773.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK  HD  " tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICK  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50932.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50932.m3u8
 #EXTINF:-1 tvg-id="Nick  HD" tvg-name="Nick  HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil",Nick  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36907.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36907.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR  HD  " tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Alternativos",NICK JR  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50933.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50933.m3u8
 #EXTINF:-1 tvg-id="Nick Jr.  HD" tvg-name="Nick Jr.  HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil",Nick Jr.  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36908.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36908.m3u8
 #EXTINF:-1 tvg-id="NatGeo Kids  HD" tvg-name="NatGeo Kids  HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/36909.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/36909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS  HD  " tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Alternativos",NATGEO KIDS  HD  
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/50903.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/50903.m3u8
 #EXTINF:-1 tvg-id="TV Ra Tim Bum  HD" tvg-name="TV Ra Tim Bum  HD" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil",TV Ra Tim Bum  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63786.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63786.m3u8
 #EXTINF:-1 tvg-id="Tooncast  HD" tvg-name="Tooncast  HD" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil",Tooncast  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63647.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63647.m3u8
 #EXTINF:-1 tvg-id="Zoomoo  HD" tvg-name="Zoomoo  HD" tvg-logo="https://static.wixstatic.com/media/b50f5a_ed7e03eea6314b228861287579e00aa9.png" group-title="Canais | Infantil",Zoomoo  HD
-http://tv.minhalista.me:80/live/Alinefloripa/elgzsvgjlxk/63779.m3u8
+http://tv.minhalista.me:80/live/Alinefloripa2020/2e1mvfmidr5/63779.m3u8
